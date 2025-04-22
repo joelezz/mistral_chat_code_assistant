@@ -1,0 +1,12 @@
+# dependencies
+node_modules/
+
+# environment
+.env
+
+# logs
+*.log
+
+# optional OS or IDE files
+.DS_Store
+.vscode/
